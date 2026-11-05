@@ -1,0 +1,67 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+This copyright and license notice covers the images in this directory.
+Note the license notice contains an add-on.
+************************************************************************
+
+TITLE:	NUVOLA ICON THEME for KDE 3.x
+AUTHOR:	David Vignoni | ICON KING
+SITE:	http://www.icon-king.com
+MAILING LIST: http://mail.icon-king.com/mailman/listinfo/nuvola_icon-king.com
+
+Copyright (c)  2003-2004  David Vignoni.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation,
+version 2.1 of the License.
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+You should have received a copy of the GNU Lesser General Public
+License along with this library (see the license.txt file); if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+#######**** NOTE THIS ADD-ON ****#######
+The GNU Lesser General Public License or LGPL is written for software libraries
+in the first place. The LGPL has to be considered valid for this artwork
+library too.
+Nuvola icon theme for KDE 3.x is a special kind of software library, it is an
+artwork library, it's elements can be used in a Graphical User Interface, or
+GUI.
+Source code, for this library means:
+ - raster png image* .
+The LGPL in some sections obliges you to make the files carry
+notices. With images this is in some cases impossible or hardly usefull.
+With this library a notice is placed at a prominent place in the directory
+containing the elements. You may follow this practice.
+The exception in section 6 of the GNU Lesser General Public License covers
+the use of elements of this art library in a GUI.
+dave [at] icon-king.com
+
+Date:		15 october 2004
+Version:	1.0
+
+DESCRIPTION:
+
+Icon theme for KDE 3.x. 
+Icons where designed using Adobe Illustrator, and then exported to PNG format.
+Icons shadows and minor corrections were done using Adobe Photoshop.
+Kiconedit was used to correct some 16x16 and 22x22 icons.
+
+LICENSE
+
+Released under GNU Lesser General Public License (LGPL)
+Look at the license.txt file.
+
+CONTACT
+
+David Vignoni	
+e-mail :		david [at] icon-king.com
+ICQ :			117761009
+http:           	http://www.icon-king.com
+Thanks to
+
+Mark Mahle from Hosted.as for hosting the site, support and for being a true friend. Best wishes for you.
+Christian Schaller to be a big fan Nuvola SVG and to have made me part of the gnome-themes-extras team.
+Carlos Woelz for his work at kde-quality and to give me some visibility with the interview at dot.kde.org.
+
+Also big thanks to Swell Technology, Kde-look and special thanks to the guys of Nuvola Mailinglist: Marcel Dierkes, Christian Szabo and Virginie Quesnay.

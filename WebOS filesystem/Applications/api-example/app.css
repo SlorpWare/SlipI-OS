@@ -1,0 +1,15 @@
+* { box-sizing: border-box; }
+html, body { min-height: 100%; margin: 0; font: 14px Arial, sans-serif; color: #111; background: #d4d0c8; }
+body { padding: 12px; }
+.is-windowed body { padding: 12px; }
+main { max-width: 520px; }
+.app-heading { display: flex; align-items: center; gap: 10px; padding-bottom: 10px; border-bottom: 1px solid #808080; }
+.app-heading img { width: 32px; height: 32px; }
+h1 { margin: 0; font-size: 16px; }
+p { margin: 4px 0 0; color: #555; font-size: 12px; }
+.launch-info { display: grid; grid-template-columns: 130px 1fr; gap: 8px; margin: 14px 0; font-size: 12px; }
+.launch-info dt { font-weight: 700; }
+.launch-info dd { margin: 0; }
+.actions { display: flex; flex-wrap: wrap; gap: 6px; }
+button { min-height: 28px; padding: 4px 8px; border: 1px solid; border-color: #fff #555 #555 #fff; background: #c0c0c0; color: #111; font: inherit; cursor: pointer; }
+button:active { border-color: #555 #fff #fff #555; }

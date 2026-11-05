@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Application API Example</title>
+    <link rel="stylesheet" href="./app.css" />
+    <script src="../../app-api.js" defer></script>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <header class="app-heading">
+        <img src="../../Icons/nuvola/32x32/apps/kate.png" alt="" />
+        <div><h1>Application API</h1><p id="mode">Loading launch flags...</p></div>
+      </header>
+      <dl class="launch-info">
+        <dt>Windowed</dt><dd id="windowed-value"></dd>
+        <dt>Requested size</dt><dd id="size-value"></dd>
+        <dt>Window ID</dt><dd id="window-id-value"></dd>
+      </dl>
+      <div class="actions">
+        <button id="open-child" type="button">Open another app</button>
+        <button id="resize" type="button">Resize to 480 × 360</button>
+        <button id="minimize" type="button">Minimize</button>
+        <button id="close" type="button">Close</button>
+      </div>
+    </main>
+  </body>
+</html>
